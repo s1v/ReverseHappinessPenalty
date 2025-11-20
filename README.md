@@ -1,4 +1,4 @@
-Bigger is happier, Isn't that so?
+## Bigger is happier, Isn't that so?
 
 This mod changes the happiness penalty based on settlement size to a happiness bonus.
 
