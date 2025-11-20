@@ -7,9 +7,6 @@ import necesse.level.maps.levelData.settlementData.settler.PopulationThought;
 import necesse.level.maps.levelData.settlementData.settler.Settler;
 import net.bytebuddy.asm.Advice;
 
-import java.util.Comparator;
-import java.util.TreeSet;
-
 @ModMethodPatch(target = Settler.class, name = "getPopulationThough", arguments = int.class)
 public class SettlerPatch {
     @Advice.OnMethodEnter(skipOn = Advice.OnNonDefaultValue.class)
