@@ -8,7 +8,7 @@ plugins {
 project.ext.modID = "s1v.reversehappinesspenalty" // The unique id of your mod. Must be all lowercase and cannot use special characters.
 project.ext.modName = "ReverseHappinessPenalty" // The display name of your mod.
 project.ext.modVersion = "1.0" // Your current builds version. Must follow the xx.xx... format.
-project.ext.gameVersion = "1.0.2" // The target game version.
+project.ext.gameVersion = "1.0.3" // The target game version.
 project.ext.modDescription = "Reverse settlement size happiness penalty." // Short description of what your mod is.
 project.ext.author = "s1v" // Your name
 
