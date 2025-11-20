@@ -1,3 +1,11 @@
-An example mod for Necesse.
+Bigger is happier, Isn't that so?
 
-Check out the [modding wiki page](https://necessewiki.com/Modding) for more.
+This mod changes the happiness penalty based on settlement size to a happiness bonus.
+
+| Number of Settlers | Happiness | 
+| ------------------ | --------- | 
+| ~5                 | 0         | 
+| ~11                | 10        | 
+| ~17                | 20        | 
+| ~23                | 30        | 
+| 24~                | 40        | 
